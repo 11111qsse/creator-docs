@@ -1,4 +1,5 @@
----
+(click button gun shoots
+
 title: Roblox Blender plugin
 description: The Roblox Blender plugin allows you to transfer assets directly from Blender to Studio.
 ---
@@ -7,4 +8,4 @@ The Roblox Blender plugin is a Blender add-on that allows you to link your Roblo
 
 The Roblox Blender plugin is an open-source implementation of Roblox's [Open Cloud API](../../cloud/guides/index.md) and developers are encouraged to extend and build upon this tool for their own projects. For installation, use, licensing, and contribution details, see the [Roblox Blender plugin GitHub page](https://github.com/Roblox/roblox-blender-plugin).
 
-<video controls src="../../assets/art/RobloxBlenderPluginDemo.mp4" width="100%"></video>
+<video controls src="../../assets/art/RobloxBlenderPluginDemo.mp4" width="100%"></vide
